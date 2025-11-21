@@ -1,4 +1,4 @@
-# Doubly Linked List + Git Simulator (CSE 331 Project 1)
+# Doubly Linked List + Git Simulator
 
 This project implements a fully-featured **Doubly Linked List (DLL)** and a simplified **Git version-control simulator** built on top of it.  
 
